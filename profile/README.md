@@ -1,4 +1,4 @@
-![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
+![Open Source at Microsoft](https://developer.microsoft.com/_devcom/images/hero-code-to-cloud-dark-v2.jpg)
 
 ## Get Involved
 
